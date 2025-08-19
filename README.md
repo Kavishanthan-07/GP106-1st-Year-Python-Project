@@ -1,6 +1,6 @@
 ---
 
-# Rock Paper Scissors Lizard Spock Game
+## Rock Paper Scissors Lizard Spock Game
 
 **A GP106 Computing Project**
 **Department of Computer Engineering, Faculty of Engineering, University of Peradeniya**
